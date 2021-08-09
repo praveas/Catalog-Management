@@ -8,11 +8,14 @@ namespace Catalog.Settings
 
         // take a advantage to calculate the connection string that needed in order to talk to mongodb
 
+        public string User { get; set; }
+        public string Password {get; set; }
         public string ConnectionString 
         { 
             get
             {
-                return $"mongodb://{Host}:{Port}";
+                return $"mongodb://{User}:{Password}@{Host}:{Port}";
+                // this is the syntax mongodb is expecting from us
             }
         }
     }
