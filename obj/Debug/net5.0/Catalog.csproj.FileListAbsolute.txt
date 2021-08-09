@@ -38,3 +38,6 @@
 /Users/darkvedor/Projects/VScode/Catalog/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
 /Users/darkvedor/Projects/VScode/Catalog/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
 /Users/darkvedor/Projects/VScode/Catalog/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
+/Users/darkvedor/Projects/VScode/Catalog/bin/Debug/net5.0/HealthChecks.MongoDb.dll
+/Users/darkvedor/Projects/VScode/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/darkvedor/Projects/VScode/Catalog/bin/Debug/net5.0/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
