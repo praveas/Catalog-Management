@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/darkvedor/Projects/VScode/Catalog/build.proj": {}
+  },
+  "projects": {
+    "/Users/darkvedor/Projects/VScode/Catalog/build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/darkvedor/Projects/VScode/Catalog/build.proj",
+        "projectName": "build",
+        "projectPath": "/Users/darkvedor/Projects/VScode/Catalog/build.proj",
+        "packagesPath": "/Users/darkvedor/.nuget/packages/",
+        "outputPath": "/Users/darkvedor/Projects/VScode/Catalog/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/darkvedor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

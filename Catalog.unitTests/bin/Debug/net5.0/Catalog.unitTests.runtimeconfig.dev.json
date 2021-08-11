@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/darkvedor/.dotnet/store/|arch|/|tfm|",
+      "/Users/darkvedor/.nuget/packages"
+    ]
+  }
+}
